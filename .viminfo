@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1644390913,,"wq!"
+|2,0,1645389523,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,20 @@
 # Registers:
 
 # File marks:
-'0  7  2  ~/until_loop.sh
-|4,48,7,2,1644390913,"~/until_loop.sh"
-'1  9  3  ~/until_loop.sh
-|4,49,9,3,1644390734,"~/until_loop.sh"
+'0  5  5  ~/list.sh
+|4,48,5,5,1645389523,"~/list.sh"
+'1  7  2  ~/until_loop.sh
+|4,49,7,2,1644390913,"~/until_loop.sh"
 '2  9  3  ~/until_loop.sh
 |4,50,9,3,1644390734,"~/until_loop.sh"
-'3  5  19  ~/while_loop.sh
-|4,51,5,19,1644389382,"~/while_loop.sh"
-'4  8  18  ~/while_loop.sh
-|4,52,8,18,1644389276,"~/while_loop.sh"
+'3  9  3  ~/until_loop.sh
+|4,51,9,3,1644390734,"~/until_loop.sh"
+'4  5  19  ~/while_loop.sh
+|4,52,5,19,1644389382,"~/while_loop.sh"
 '5  8  18  ~/while_loop.sh
 |4,53,8,18,1644389276,"~/while_loop.sh"
-'6  9  3  ~/while_loop.sh
-|4,54,9,3,1644389115,"~/while_loop.sh"
+'6  8  18  ~/while_loop.sh
+|4,54,8,18,1644389276,"~/while_loop.sh"
 '7  9  3  ~/while_loop.sh
 |4,55,9,3,1644389115,"~/while_loop.sh"
 '8  9  3  ~/while_loop.sh
@@ -47,16 +47,38 @@
 |4,57,9,3,1644389115,"~/while_loop.sh"
 
 # Jumplist (newest first):
+-'  5  5  ~/list.sh
+|4,39,5,5,1645389523,"~/list.sh"
+-'  1  0  ~/list.sh
+|4,39,1,0,1645389437,"~/list.sh"
+-'  7  2  ~/until_loop.sh
+|4,39,7,2,1644390913,"~/until_loop.sh"
 -'  7  2  ~/until_loop.sh
 |4,39,7,2,1644390913,"~/until_loop.sh"
 -'  9  3  ~/until_loop.sh
 |4,39,9,3,1644390835,"~/until_loop.sh"
+-'  9  3  ~/until_loop.sh
+|4,39,9,3,1644390835,"~/until_loop.sh"
+-'  9  3  ~/until_loop.sh
+|4,39,9,3,1644390734,"~/until_loop.sh"
 -'  9  3  ~/until_loop.sh
 |4,39,9,3,1644390734,"~/until_loop.sh"
 -'  1  0  ~/until_loop.sh
 |4,39,1,0,1644390058,"~/until_loop.sh"
 -'  1  0  ~/until_loop.sh
 |4,39,1,0,1644390058,"~/until_loop.sh"
+-'  1  0  ~/until_loop.sh
+|4,39,1,0,1644390058,"~/until_loop.sh"
+-'  1  0  ~/until_loop.sh
+|4,39,1,0,1644390058,"~/until_loop.sh"
+-'  5  19  ~/while_loop.sh
+|4,39,5,19,1644389382,"~/while_loop.sh"
+-'  5  19  ~/while_loop.sh
+|4,39,5,19,1644389382,"~/while_loop.sh"
+-'  5  19  ~/while_loop.sh
+|4,39,5,19,1644389382,"~/while_loop.sh"
+-'  5  19  ~/while_loop.sh
+|4,39,5,19,1644389382,"~/while_loop.sh"
 -'  5  19  ~/while_loop.sh
 |4,39,5,19,1644389382,"~/while_loop.sh"
 -'  5  19  ~/while_loop.sh
@@ -73,6 +95,22 @@
 |4,39,8,18,1644389306,"~/while_loop.sh"
 -'  8  18  ~/while_loop.sh
 |4,39,8,18,1644389306,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389306,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389306,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389306,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389306,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389276,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389276,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389276,"~/while_loop.sh"
+-'  8  18  ~/while_loop.sh
+|4,39,8,18,1644389276,"~/while_loop.sh"
 -'  8  18  ~/while_loop.sh
 |4,39,8,18,1644389276,"~/while_loop.sh"
 -'  8  18  ~/while_loop.sh
@@ -97,6 +135,30 @@
 |4,39,9,3,1644389175,"~/while_loop.sh"
 -'  9  3  ~/while_loop.sh
 |4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389175,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389115,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389115,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389115,"~/while_loop.sh"
+-'  9  3  ~/while_loop.sh
+|4,39,9,3,1644389115,"~/while_loop.sh"
 -'  9  3  ~/while_loop.sh
 |4,39,9,3,1644389115,"~/while_loop.sh"
 -'  9  3  ~/while_loop.sh
@@ -129,6 +191,30 @@
 |4,39,1,0,1644388755,"~/while_loop.sh"
 -'  1  0  ~/while_loop.sh
 |4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
+-'  1  0  ~/while_loop.sh
+|4,39,1,0,1644388755,"~/while_loop.sh"
 -'  6  3  ~/for_loop.sh
 |4,39,6,3,1644388643,"~/for_loop.sh"
 -'  6  3  ~/for_loop.sh
@@ -161,94 +247,15 @@
 |4,39,6,3,1644388643,"~/for_loop.sh"
 -'  6  3  ~/for_loop.sh
 |4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  6  3  ~/for_loop.sh
-|4,39,6,3,1644388643,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
--'  1  0  ~/for_loop.sh
-|4,39,1,0,1644388231,"~/for_loop.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/list.sh
+	*	1645389510	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
 
 > ~/until_loop.sh
 	*	1644390909	0
